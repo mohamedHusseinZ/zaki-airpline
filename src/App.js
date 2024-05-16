@@ -31,7 +31,7 @@ function App() {
     </Router>
   );
 }
-old is gold
+
 export default App;
 
 
